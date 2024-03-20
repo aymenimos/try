@@ -1,0 +1,229 @@
+{
+ "files": [
+  {
+   "name": "001 Al-Fatihah.mp3",
+   "size": 1168706,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "522467b90485b0fb9830741e228cbcde86fd8e8be66b8b017495f833f50dee15",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "002 Al-Baqarah.mp3",
+   "size": 148166744,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "97b6ef24858606bbdc5d3969c47821ace3edfd8bcba303d05e5a3b542f91e337",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "003 Ali 'Imran.mp3",
+   "size": 87532901,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "f9758d3f76878105180d2ac356193f4b54b1043ecbef9aaf0d66e000a842422d",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "004 An-Nisa.mp3",
+   "size": 84233044,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "f2955933baf0be9db29cb44827cde945b92d82cced08a6c491cc9a4ec087cd83",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "005 Al-Ma'idah.mp3",
+   "size": 69018249,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "70e56a61ab67d5023c7a0137a2fc052f318f22e795717a85edb5be9e8918c491",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "006 Al-An'am.mp3",
+   "size": 65921241,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "672cdc5a5b3188d8713f4361e8eee5f851cf389bf5bda550794b2e4c575ba781",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "007 Al-A'raf.mp3",
+   "size": 79244564,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "4e85c7762bf972be7b25e5e3ed3c1c033b768c7f9c3636aede3e1007e92a3f67",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "008 Al-Anfal.mp3",
+   "size": 29840634,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "4d5ac41d9ea43d5ae9270313b171a11c664ce970589d4d1b20709f675ccd45dc",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "009 At-Tawbah.mp3",
+   "size": 59977069,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "50806576e85ffd48dd06d2601b9c82ac681b01358f15340c3bda4897e27a4512",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "010 Yunus.mp3",
+   "size": 40073812,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "f1fa1a0495ee5af8936b379e652e04f6d141b685f3a3498acb3f73f37009a3f2",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "011 Hud.mp3",
+   "size": 44014932,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "e1afe272bb059b59e129954835206c7c724202a9c532b2bc86ccfb2882ca3e6e",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "012 Yusuf.mp3",
+   "size": 42014612,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "b68710d71d4068b841ec23642febbc7a396114c6487623b8493d4292a6ab55ae",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "013 Ar-Ra'd.mp3",
+   "size": 18227657,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "86a6420d579a1f50bc20e2f8522497f462e1da6098300aa0f79cba319ec41855",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "014 Ibrahim.mp3",
+   "size": 19472807,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "bd6d8f3c214922dc565806cd775491147bc12e3e74fc933dcef79e61bf9bb86c",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "015 Al-Hijr.mp3",
+   "size": 16770683,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "0d7e17bbd8539bdca2bff5ef57c44a52b179df554801c954423ef39ef87b3cb5",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "016 An-Nahl.mp3",
+   "size": 40974523,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "0e22832bd9d2bdabe7aded66140aa3477668355c91d69aef252b46e0d0f7a7bd",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "017 Al-Isra.mp3",
+   "size": 34810449,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "7d59eeb7310fe22cf75afd1a4294761f3c0f4d223fa9e384a2529e0f42f0eb1c",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "018 Al-Kahf.mp3",
+   "size": 32032350,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "2ef82bb8f1e7d2079964c244d8fcb4359db1167ff54097f2389348c51fee618c",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "019 Maryam.mp3",
+   "size": 20152879,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "32279411fe5a49ebd145b4f4a178cb06b4c3c564c0edc64d26636bcb51ad001d",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "020 Taha.mp3",
+   "size": 29522053,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "7c9df1ed4a23bad6bc98f3ed32d9cb2a2cdc96324fdd21c851367b9a5b84156f",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "021 Al-Anbya.mp3",
+   "size": 26545044,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "19845198bf80d850e9adfba24637fd1f46d6f5b093aabf996a79461418a44438",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "022 al-Hajj.mp3",
+   "size": 28410395,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "584240555c0506d4e3903045c4b1bce5847e9c56bc3298212ee4a198863cbe36",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "023 al-Mumenoon.mp3",
+   "size": 24293684,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "8737b0f442eb640c5cd157d06fdf3cb4575e5909ddae2f90284d14b364da3d75",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "024 An-Nur.mp3",
+   "size": 30462882,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "f0c1f921aaffc6af26cfb420d59620662657db3b99931bd954fe32508232a39f",
+   "version": "https://git-lfs.github.com/spec/v1"
+  },
+  {
+   "name": "025 Al-Furqan.mp3",
+   "size": 20176299,
+   "checkout": true,
+   "downloaded": true,
+   "oid_type": "sha256",
+   "oid": "44c78d6b10a20273258b70a449703428e147634eaefcb1cca4c27489f2ba7f00",
+   "version": "https://git-lfs.github.com/spec/v1"
+  }
+ ]
+}
